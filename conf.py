@@ -33,7 +33,15 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
+    'sphinx.ext.intersphinx',
+    'sphinxcontrib.plantuml',
 ]
+
+intersphinx_mapping = {
+    'python': ('https://docs.python.org/3.5', None),
+}
+
+plantuml_output_format = 'svg'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
