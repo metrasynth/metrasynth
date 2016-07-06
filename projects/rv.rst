@@ -2,9 +2,6 @@
 Radiant Voices (:mod:`rv`)
 ==========================
 
-**Status**
-    Development started.
-
 **Github**
     https://github.com/metrasynth/rv
 
