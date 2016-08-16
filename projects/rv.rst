@@ -3,7 +3,7 @@ Radiant Voices (:mod:`rv`)
 ==========================
 
 **Github**
-    https://github.com/metrasynth/rv
+    https://github.com/metrasynth/radiant-voices
 
 Python interface to SunVox DLL
 ==============================
