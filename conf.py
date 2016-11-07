@@ -32,7 +32,6 @@ import os
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.viewcode',
-    'sphinx.ext.githubpages',
     'sphinx.ext.intersphinx',
     'plantweb.directive',
 ]
