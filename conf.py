@@ -34,7 +34,7 @@ extensions = [
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
     'sphinx.ext.intersphinx',
-    'sphinxcontrib.plantuml',
+    'plantweb.directive',
 ]
 
 intersphinx_mapping = {
