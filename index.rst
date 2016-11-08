@@ -12,7 +12,7 @@ Contents:
     :maxdepth: 3
     :glob:
 
-    projects/index
+    projects
     vision
     contributors
 
