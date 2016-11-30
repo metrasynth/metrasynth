@@ -3,6 +3,10 @@ Projects
 ========
 
 
+`The Complete Guide to SunVox`_
+  A free book for beginning to advanced users, and developers
+  incorporating SunVox DLL into their projects.
+
 Orbitant_
   MIDI clock and musical timing utilities for Python.
 
@@ -24,6 +28,9 @@ SunVOSC_
 VoxPlex_
   VoxPlex synchronizes files to/from SunVox for iOS.
 
+
+..  _The Complete Guide to SunVox:
+    https://sunvox-guide.readthedocs.io/
 
 ..  _Orbitant:
     https://orbitant.readthedocs.io/
